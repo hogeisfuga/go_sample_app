@@ -1,2 +1,0 @@
-2023/12/03 15:00:52 main.go:16: hey!
-2023/12/03 15:13:40 base.go:23: sql: unknown driver "sqlite4" (forgotten import?)
